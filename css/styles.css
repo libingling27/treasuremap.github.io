@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #34495e;
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2{
+    margin: 5px 0;
+}
+
+img{
+    margin: 10px;
+}
+
+button{
+    width: 180px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.181);
+    color: #fff;
+    box-shadow: 3px 3px 3px #6e6e6e;
+    cursor: pointer;
+}
